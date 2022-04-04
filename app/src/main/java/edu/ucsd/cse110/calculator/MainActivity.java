@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
 
         // Hello world this is a new commen!
 
+        // This is a comment
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
